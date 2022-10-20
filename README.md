@@ -1,6 +1,16 @@
 # DoctorCare
-
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00856F&labelColor=000000">
 Um projeto feito com a RocketSeat inspirado em uma página de assistência médica. Com a utilização das linguagens de marcações, estilizações e programação: HTML, CSS e JavaScript e a Library JS ScrollReveal.
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- [ScrollReveal](https://scrollrevealjs.org/)
 
 ## Ferramentas
 
@@ -8,25 +18,20 @@ Um projeto feito com a RocketSeat inspirado em uma página de assistência médi
 
 2. [Figma](https://www.figma.com/)
 
-### Fonte
 
-- 'DM Sans';
+## 💻 Projeto
 
-### Cores
+DoctorCare é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micros, pequenas e médias empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer
 
-- Branco - #white;
+## 🔖 Layout
 
-## Referências
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912263666619803). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-- [Rocketseat](https://rocketseat.com.br/)
-- [w3schools lista de tags](https://www.w3schools.com/tags/default.asp)
-- [Google Fonts](https://fonts.google.com/)
-- [w3schools - css](https://www.w3schools.com/css/)
-- [CSS tricks flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [w3schools - js](https://www.w3schools.com/js/default.asp)
-- [Introdução CSS BEM](http://getbem.com/introduction/)
-- [CSS BEM](http://getbem.com/naming/)
+## 📝 Licença
 
-## Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+---
+
+Feito com 💜 by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
