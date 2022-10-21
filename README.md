@@ -1,7 +1,10 @@
 # DoctorCare
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00856F&labelColor=000000">
 Um projeto feito com a RocketSeat inspirado em uma página de assistência médica. Com a utilização das linguagens de marcações, estilizações e programação: HTML, CSS e JavaScript e a Library JS ScrollReveal.
-
+<p align="center">
+<br/>
+  <img alt="DoctorCare" src="preview.jpg" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
